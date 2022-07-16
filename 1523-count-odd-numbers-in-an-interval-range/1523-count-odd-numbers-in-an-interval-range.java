@@ -5,9 +5,4 @@ class Solution {
             N++;
             return N;
     }
-     public static void main(String args[])
-    {
-        int low = 3, high = 7;
-        System.out.println(countOdds(low,high));
-    }
 }
